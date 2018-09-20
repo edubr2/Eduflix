@@ -207,16 +207,16 @@ button.btnCommand.repeatToggleButton.autoSize.nowPlayingPageRepeatActive {
 /* 1.2.6 Others */
 /* General Accent Color Modifications */
 :focus {
-  outline: #E81123 auto 5px; }
+  outline: #4B0082 auto 5px; }
 
 select:focus {
-  border-color: #E81123 !important; }
+  border-color: #4B0082 !important; }
 
 ::selection {
   background-color: #4B0082 !important; }
 
 .emby-input:focus, .emby-textarea:focus {
-  border-color: #E81123 !important; }
+  border-color: #4B0082 !important; }
 
 /* Google Now Playing Bar & Now Playing Page */
 .iconOsdProgressInner, .mdl-slider__background-lower, .sliderBubble,
@@ -290,11 +290,11 @@ div.jstree-wholerow.jstree-wholerow-hovered {
 
 /* Multi-select */
 .itemSelectionPanel {
-  border: 1px solid #E81123 !important; }
+  border: 1px solid #4B0082 !important; }
 
 .selectionCommandsPanel {
-  background: #E81123 !important;
-  color: #fff; }
+  background: #4B0082 !important;
+  color: #4B0082; }
 
 /* upNextDialog */
 .upNextDialog-countdownText {
@@ -303,11 +303,11 @@ div.jstree-wholerow.jstree-wholerow-hovered {
 /* Selection Bars */
 .emby-select-selectionbar, .emby-textarea-selectionbar,
 .emby-input-selectionbar {
-  background-color: #E81123 !important; }
+  background-color: #4B0082 !important; }
 
 /* Media Info Detail Image */
 .itemDetailImage.loaded:hover {
-  border: 1px solid #E81123 !important; }
+  border: 1px solid #4B0082 !important; }
 
 /* 1.3 Fixes */
 /* ------------------ 2. MISCELLANEOUS MODIFICATIONS ----------------- */
@@ -386,8 +386,8 @@ div.scrollContainer.smoothScrollY::-webkit-scrollbar-thumb {
 
 /* Select Box */
 select option {
-  background-color: #32CD32 !important;
-  color: #ffffff !important; }
+  background-color: #4B0082 !important;
+  color: #4B0082 !important; }
 
 /* Dialogs */
 .formDialogHeader:not(.formDialogHeader-clear),
